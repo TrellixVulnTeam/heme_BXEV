@@ -1,2 +1,2 @@
-# inventory-management
-This is a inventory management system
+# heme
+Production and sales system.
